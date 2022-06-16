@@ -27,4 +27,5 @@
 - Boolean e Condicionais
 - Funções
 - Objetos
-- Array
+- Arrays e Loops
+- Atribuições e Ternários
