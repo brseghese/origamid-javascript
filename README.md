@@ -14,12 +14,18 @@
 <summary>Clique para Navegar 🔽</summary>
 
 - <a href="#1">JavaScript Para Iniciantes</a>
+- <a href="#2">DOM para Iniciantes</a>
 
 </details>
 
 ---
 
-<h3 id="1">📍 JavaScript para Iniciantes</h3>
+<h3 id="1">🔷 JavaScript para Iniciantes</h3>
+
+<details>
+<summary>Exercícios</summary>
+
+####
 
 - Variáveis
 - Tipos de Dados
@@ -29,3 +35,23 @@
 - Objetos
 - Arrays e Loops
 - Atribuições e Ternários
+- Escopo
+
+</details>
+
+<h3 id="2">🔷 DOM para Iniciantes</h3>
+
+<details>
+<summary>Exercícios</summary>
+
+####
+
+- O que é Dom?
+- Seleção de Elementos
+
+</details>
+
+<!-- <details>
+<summary>Exercícios</summary>
+
+</details> -->
