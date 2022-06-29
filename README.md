@@ -41,6 +41,12 @@
 - forEach e Arrow Function
 - Classes e Atributos
 - Dimensões e Distancias
+- Eventos
+- Traversing e Manipulação
+- Navegação por Tab
+- Accordion List
+- Scroll suave link interno
+- Animação ao scroll
 
 </details>
 
