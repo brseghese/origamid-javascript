@@ -50,6 +50,25 @@
 
 </details>
 
+<h3 id="2">🔷 Objetos</h3>
+
+<details>
+<summary>Exercícios</summary>
+
+####
+
+- Constructor Functions
+- Prototype
+- Native, Host e User1
+- String
+- Number
+- Array
+- Array e Iteração
+- Function
+- Object
+
+</details>
+
 <h3 id="2">🔷 Projeto - Animais Fantásticos</h3>
 
 <details>
