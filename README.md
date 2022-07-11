@@ -10,7 +10,7 @@
 
 ---
 
-<h3 id="1">🔷 JavaScript para Iniciantes</h3>
+<h3 id="1">1. 🔷 JavaScript para Iniciantes</h3>
 
 <details>
 <summary>Exercícios</summary>
@@ -29,7 +29,7 @@
 
 </details>
 
-<h3 id="2">🔷 Dom para Iniciantes</h3>
+<h3 id="2">2. 🔷 Dom para Iniciantes</h3>
 
 <details>
 <summary>Exercícios</summary>
@@ -50,7 +50,7 @@
 
 </details>
 
-<h3 id="2">🔷 Objetos</h3>
+<h3 id="3">3. 🔷 Objetos</h3>
 
 <details>
 <summary>Exercícios</summary>
@@ -69,7 +69,27 @@
 
 </details>
 
-<h3 id="2">🔷 Projeto - Animais Fantásticos</h3>
+<h3 id="3">4. 🔷 Efeitos no DOM</h3>
+
+<details>
+<summary>Exercícios</summary>
+
+####
+
+- Dataset
+- Modal
+- Tool Tip
+- Dropdown Menu
+- setTimeout & setInterval
+- Menu Mobile
+- Anima Números
+- Date Object
+- Forms
+- Button Creator
+
+</details>
+
+<h3 id="0">5. 🔷 Projeto - Animais Fantásticos</h3>
 
 <details>
 <summary>Hands On</summary>
