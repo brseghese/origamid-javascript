@@ -17,7 +17,7 @@
 
 ####
 
-- [Variáveis](./a_js_iniciante/a_variaveis/script.js)
+- Variáveis
 - Tipos de Dados
 - Números e Operadores
 - Boolean e Condicionais
@@ -89,7 +89,25 @@
 
 </details>
 
-<h3 id="0">5. 🔷 Projeto - Animais Fantásticos</h3>
+<h3 id="0">5. 🔷 JavaScript Assíncrono</h3>
+
+<details>
+<summary>Exercícios</summary>
+
+####
+
+- Promises
+- Fetch API
+- Json
+- API e HTTP
+- Async Await
+- History API
+- Fetch Numeros
+- Fetch Bitcoin
+
+</details>
+
+<h3 id="0">6. 🔷 Projeto - Animais Fantásticos</h3>
 
 <details>
 <summary>Hands On</summary>

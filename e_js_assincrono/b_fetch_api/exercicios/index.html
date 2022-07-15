@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>Busca Cep</title>
+</head>
+
+<body>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      font-family: monospace;
+      font-size: 1rem;
+    }
+
+    label {
+      display: block;
+      margin: 5px;
+    }
+
+    input {
+      display: block;
+      margin: 5px;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+
+    .resultadoCep {
+      margin: 5px;
+    }
+
+    .resultadoBtc {
+      margin: 5px;
+      margin-bottom: 10px;
+    }
+
+    .resultadoPiada {
+      margin: 5px;
+
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 5px;
+    }
+  </style>
+
+  <form id="buscaCep">
+    <label for="cep">Cep</label>
+    <input type="text" name="cep" id="cep">
+    <input type="button" value="Buscar" id="btnCep">
+  </form>
+  <div class="resultadoCep"></div>
+
+  <div class="resultadoBtc">
+    <h2>Preço BTC</h2>
+    <p class="btc"></p>
+  </div>
+
+  <div class="resultadoPiada">
+    <p class="piada"></p>
+    <button class="proxima">Próxima</button>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>
