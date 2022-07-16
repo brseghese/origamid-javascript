@@ -10,7 +10,7 @@
 
 ---
 
-<h3 id="1">1. 🔷 JavaScript para Iniciantes</h3>
+### 1. 🔷 JavaScript para Iniciantes
 
 <details>
 <summary>Exercícios</summary>
@@ -29,7 +29,7 @@
 
 </details>
 
-<h3 id="2">2. 🔷 Dom para Iniciantes</h3>
+### 2. 🔷 Dom para Iniciantes
 
 <details>
 <summary>Exercícios</summary>
@@ -50,7 +50,7 @@
 
 </details>
 
-<h3 id="3">3. 🔷 Objetos</h3>
+### 3. 🔷 Objetos
 
 <details>
 <summary>Exercícios</summary>
@@ -69,7 +69,7 @@
 
 </details>
 
-<h3 id="3">4. 🔷 Efeitos no DOM</h3>
+### 4. 🔷 Efeitos no DOM
 
 <details>
 <summary>Exercícios</summary>
@@ -89,7 +89,7 @@
 
 </details>
 
-<h3 id="0">5. 🔷 JavaScript Assíncrono</h3>
+### 5. 🔷 JavaScript Assíncrono
 
 <details>
 <summary>Exercícios</summary>
@@ -107,7 +107,21 @@
 
 </details>
 
-<h3 id="0">6. 🔷 Projeto - Animais Fantásticos</h3>
+### 6. 🔷 Classes
+
+<details>
+<summary>Exercícios</summary>
+
+####
+
+- Classes
+- Get e Set
+- Extends
+- countdown
+
+</details>
+
+### 7. 🔷 Projeto - Animais Fantásticos
 
 <details>
 <summary>Hands On</summary>
@@ -123,5 +137,3 @@
 <summary>Exercícios</summary>
 
 </details> -->
-
-<!-- :bookmark: -->
