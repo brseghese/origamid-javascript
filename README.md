@@ -10,10 +10,10 @@
 
 ---
 
-### 1. 🔷 JavaScript para Iniciantes
+### ✨ Tópicos e Exercícios
 
 <details>
-<summary>Exercícios</summary>
+<summary>1. JavaScript para Iniciantes</summary>
 
 ####
 
@@ -29,10 +29,8 @@
 
 </details>
 
-### 2. 🔷 Dom para Iniciantes
-
 <details>
-<summary>Exercícios</summary>
+<summary>2. Dom para Iniciantes</summary>
 
 ####
 
@@ -50,10 +48,8 @@
 
 </details>
 
-### 3. 🔷 Objetos
-
 <details>
-<summary>Exercícios</summary>
+<summary>3. Objetos</summary>
 
 ####
 
@@ -69,10 +65,8 @@
 
 </details>
 
-### 4. 🔷 Efeitos no DOM
-
 <details>
-<summary>Exercícios</summary>
+<summary>4. Efeitos no DOM</summary>
 
 ####
 
@@ -89,10 +83,8 @@
 
 </details>
 
-### 5. 🔷 JavaScript Assíncrono
-
 <details>
-<summary>Exercícios</summary>
+<summary>5. JavaScript Assíncrono</summary>
 
 ####
 
@@ -107,10 +99,8 @@
 
 </details>
 
-### 6. 🔷 Classes
-
 <details>
-<summary>Exercícios</summary>
+<summary>6. Classes</summary>
 
 ####
 
@@ -121,10 +111,22 @@
 
 </details>
 
-### 7. 🔷 Projeto - Animais Fantásticos
+<details>
+<summary>7. Mais JavaScript</summary>
+
+####
+
+- Function Expression
+- Factory Function
+- Clojures e Debugging
+- Destructuring
+- Rest e Spread
+- Loops e Interable
+
+</details>
 
 <details>
-<summary>Hands On</summary>
+<summary>8. Projeto - Animais Fantásticos</summary>
 
 ####
 
