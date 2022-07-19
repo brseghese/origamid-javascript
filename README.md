@@ -126,7 +126,18 @@
 </details>
 
 <details>
-<summary>8. Projeto - Animais Fantásticos</summary>
+<summary>8. Regular Expression</summary>
+
+####
+
+- Regexp
+- Limpar CPF
+- Validar CPF
+
+</details>
+
+<details>
+<summary>9. Projeto - Animais Fantásticos</summary>
 
 ####
 
