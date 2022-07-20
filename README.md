@@ -107,7 +107,7 @@
 - Classes
 - Get e Set
 - Extends
-- countdown
+- Countdown
 
 </details>
 
@@ -137,7 +137,17 @@
 </details>
 
 <details>
-<summary>9. Projeto - Animais Fantásticos</summary>
+<summary>9. Automação Front-end</summary>
+
+####
+
+- Webpack
+- Babel
+
+</details>
+
+<details>
+<summary>10. Animais Fantásticos</summary>
 
 ####
 
@@ -146,7 +156,28 @@
 
 </details>
 
-<!-- <details>
-<summary>Exercícios</summary>
+---
 
-</details> -->
+### 📝 License
+
+Esse projeto é licenciado pela MIT License. [Clique aqui](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)🔗 para mais detalhes.
+
+---
+
+### ✒️ Autor
+
+<a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
+
+[Clique aqui](https://brseghese.github.io)🔗 e acesse meu portfólio! 💼 (em construção...)
+
+---
+
+#### 💬 Sinta-se a vontade para entrar em contato
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoseghese/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brseghese) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brseghese@gmail.com)
+
+---
+
+> Desenvolvido com ❤️ por **Bruno Seghese**
+
+---
