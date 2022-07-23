@@ -12,6 +12,8 @@
 
 ### ✨ Tópicos e Exercícios
 
+####
+
 <details>
 <summary>1. JavaScript para Iniciantes</summary>
 
@@ -143,16 +145,26 @@
 
 - Webpack
 - Babel
+- Git
 
 </details>
 
 <details>
-<summary>10. Animais Fantásticos</summary>
+<summary>10. Refatoração</summary>
 
 ####
 
-- HTML
-- CSS
+- Scroll Suave
+- Accordion
+- Modal
+- Tooltip
+- Anima Números
+- Fetch Animais
+- Fetch Bitcoin
+- Animação Scroll
+- Dropdown Menu
+- Menu Mobile
+- Funcionamento
 
 </details>
 
