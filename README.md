@@ -10,6 +10,10 @@
 
 ---
 
+### 🚀 ​ [Clique aqui](https://od-animais-fantasticos.netlify.app/)🔗 para acessar o projeto final do curso.
+
+---
+
 ### ✨ Tópicos e Exercícios
 
 ####
@@ -167,6 +171,14 @@
 - Funcionamento
 
 </details>
+
+---
+
+### 🎥 Preview
+
+<div align="center">
+<img src="./0_assets/animais-fantasticos.png"/>
+</div>
 
 ---
 
