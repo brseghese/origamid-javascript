@@ -235,6 +235,9 @@ body {
   .copy {
     margin-bottom: 0px;
   }
+  #faq {
+    margin-top: -3rem;
+  }
 }
 
 .js [data-tab="content"] section {
